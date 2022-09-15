@@ -1,0 +1,27 @@
+.main{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(56, 56, 56, 0.597);
+}
+.contain{
+    width: 800px;
+    display: flex;
+    overflow: hidden;
+    justify-content: space-between;
+
+    /* border: 2px solid black; */
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+a:hover{
+    color: bisque;
+    text-decoration: none;
+}
+.p{
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
